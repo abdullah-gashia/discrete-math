@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 // Recursive function to compute the nth term of the series
 int series(int n) {

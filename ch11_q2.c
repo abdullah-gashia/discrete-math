@@ -1,5 +1,5 @@
 //Recursive function
-#include <stdio.h>
+//#include <stdio.h>
 
 // Recursive function to check if x is in the list
 int search_recursive(int arr[], int size, int x) {

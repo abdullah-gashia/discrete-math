@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <math.h>
+//#include <stdio.h>
+//#include <math.h>
 
 // Function to compute nth term iteratively
 long long find_nth_term(int n) {

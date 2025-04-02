@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 // Function to compute the sum of elements in the list
 int sumElements(int arr[], int size) {
